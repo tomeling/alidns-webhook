@@ -10,7 +10,7 @@ import (
 
 // Config is a structure that is used to decode into when
 // solving a DNS01 challenge.
-//
+// test
 // This information is provided by cert-manager, and may be a reference to
 // additional configuration that's needed to solve the challenge for this
 // particular certificate or issuer.
